@@ -1,29 +1,31 @@
 # Fundamentals of Data Analysis Tasks 2020
 
-Summary of Assignment
-This repository contains my fundamentals of data alaysis assignmnet 2020. It looks at 4 individual tasks.
+### Summary of Assignment
 
-Task 1
+This repository contains my Fundamentals of data Alaysis Assignmnet 2020. It looks at 4 individual tasks.
 
-Task 2
+#### Task 1 
+Write a Python function called counts that takes a list as input and returns a dictionary of unique items in the list as keys and the number of times each item appears as values.
 
-Task 3
+#### Task 2
 
-Task 4
+#### Task 3
+
+#### Task 4
 
 
 I commenced work on this assignment around the 5th of October 2020 and completed work on ????
 
 See here for the Assignment Instructions 2020 (PUT Link Here)??
 
-Libaries used in this Assignment
+### Libaries used in this Assignment
 
 
 Downloading My Repositiory from git hub
-Go to Git Hub using the following link Click Here:
+Go to Git Hub using the following link Click Here:(Insert Link to repository???)
 Click the download button
 
-Whats contained in the repository
+### Whats contained in the repository
 
 This repository contains the following files:
 gitignore file
@@ -33,7 +35,7 @@ Fundamentals of Data Analysis Tasks 2020.ipynb - Jupyter notebook
 Readme.md - This document
 
 
-Running the Jupyter Notebook
+### Running the Jupyter Notebook
 The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
 
 jupyter notebook This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.
