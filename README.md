@@ -9,12 +9,16 @@ Write a Python function called counts that takes a list as input and returns a d
 
 #### Task 2
 
+Write a Python function called dicerolls that simulates rolling dice.
+
 #### Task 3
+Write some python code that simulates flipping a coin 100 times. Then run this code 1,000 times, keeping track
+of the number of heads in each of the 1,000 simulations. Select an appropriate plot to depict the resulting list of 1,000 numbers, showing that it roughly follows a bell-shaped curve.
 
 #### Task 4
 
 
-I commenced work on this assignment around the 5th of October 2020 and completed work on ????
+I commenced work on this assignment around the 5th of October 2020 and completed work for the deadline on 18th December 2020
 
 See here for the Assignment Instructions 2020 (PUT Link Here)??
 
