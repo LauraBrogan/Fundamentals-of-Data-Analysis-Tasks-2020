@@ -1,8 +1,8 @@
 # Fundamentals of Data Analysis Tasks 2020
 
-### Summary of Assignment
+### Summary of Assignment  ???Describe the solutions?????
 
-This repository contains my Fundamentals of data Alaysis Assignmnet 2020. It looks at 4 individual tasks.
+This repository contains my Fundamentals of data Alaysis Assignment 2020. It looks at 4 individual tasks.
 
 #### Task 1 
 Write a Python function called counts that takes a list as input and returns a dictionary of unique items in the list as keys and the number of times each item appears as values.
@@ -18,21 +18,21 @@ of the number of heads in each of the 1,000 simulations. Select an appropriate p
 #### Task 4
 
 
-I commenced work on this assignment around the 5th of October 2020 and completed work for the deadline on 18th December 2020
+I commenced work on this assignment around the 5th of October 2020 and completed work for the deadline on 18th December 2020.
 
 See here for the Assignment Instructions 2020 (PUT Link Here)??
 
 ### Libaries used in this Assignment
 
 
-Downloading My Repositiory from git hub
+### Downloading My Repositiory from git hub
 Go to Git Hub using the following link Click Here:(Insert Link to repository???)
 Click the download button
 
 ### Whats contained in the repository
 
 This repository contains the following files:
-gitignore file
+
 licence file
 .pdf - Assignment Instructions?????
 Fundamentals of Data Analysis Tasks 2020.ipynb - Jupyter notebook
@@ -54,5 +54,5 @@ Launch the Jupyter Notebook App (see previous section). In the Notebook Dashboar
 
 https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 
-Laura Brogan 
+Laura Brogan 12/2020
 
