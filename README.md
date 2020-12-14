@@ -2,7 +2,7 @@
 
 ### Summary of Assignment 
 
-This repository contains my Fundamentals of Data Alaysis Assignment 2020. It looks at 4 individual tasks.  Task 1 looks at a python function called counts.  The second task is a python function that stimulates rolling dice.  task 3 stimulates a coin flip and task for looks at Simpson's Paradox. 
+This repository contains my Fundamentals of Data Alaysis Assignment 2020. It looks at 4 individual tasks.  Task 1 looks at a python function called counts.  The second task is a python function that stimulates rolling dice.  Task 3 stimulates a coin flip and task four looks at Simpson's Paradox. 
 
 #### Task 1 
 
@@ -38,6 +38,7 @@ I impoted: NumPy, Pandas, Matplotlib, Seaborn
 
 ### Downloading My Repositiory from git hub
 Go to Git Hub using the following link [Click Here:](https://github.com/LauraBrogan/Fundamentals-of-Data-Analysis-Tasks-2020)
+
 Click the download button
 
 ### Whats contained in the repository
